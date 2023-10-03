@@ -1,0 +1,17 @@
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\bin\Debug\net6.0\Entregas.Infra.deps.json
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\bin\Debug\net6.0\Entregas.Infra.runtimeconfig.json
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\bin\Debug\net6.0\Entregas.Infra.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\bin\Debug\net6.0\Entregas.Infra.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\bin\Debug\net6.0\Entregas.Domain.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\bin\Debug\net6.0\Entregas.Domain.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\obj\Debug\net6.0\Entregas.Infra.csproj.AssemblyReference.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\obj\Debug\net6.0\Entregas.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\obj\Debug\net6.0\Entregas.Infra.AssemblyInfoInputs.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\obj\Debug\net6.0\Entregas.Infra.AssemblyInfo.cs
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\obj\Debug\net6.0\Entregas.Infra.csproj.CoreCompileInputs.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\obj\Debug\net6.0\Entregas.Infra.csproj.CopyComplete
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\obj\Debug\net6.0\Entregas.Infra.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\obj\Debug\net6.0\refint\Entregas.Infra.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\obj\Debug\net6.0\Entregas.Infra.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\obj\Debug\net6.0\Entregas.Infra.genruntimeconfig.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Infra\obj\Debug\net6.0\ref\Entregas.Infra.dll

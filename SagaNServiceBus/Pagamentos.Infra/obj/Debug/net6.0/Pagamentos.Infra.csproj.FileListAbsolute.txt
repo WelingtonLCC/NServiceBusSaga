@@ -1,0 +1,17 @@
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\bin\Debug\net6.0\Pagamentos.Infra.deps.json
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\bin\Debug\net6.0\Pagamentos.Infra.runtimeconfig.json
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\bin\Debug\net6.0\Pagamentos.Infra.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\bin\Debug\net6.0\Pagamentos.Infra.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\bin\Debug\net6.0\Pagamentos.Domain.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\bin\Debug\net6.0\Pagamentos.Domain.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\obj\Debug\net6.0\Pagamentos.Infra.csproj.AssemblyReference.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\obj\Debug\net6.0\Pagamentos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\obj\Debug\net6.0\Pagamentos.Infra.AssemblyInfoInputs.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\obj\Debug\net6.0\Pagamentos.Infra.AssemblyInfo.cs
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\obj\Debug\net6.0\Pagamentos.Infra.csproj.CoreCompileInputs.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\obj\Debug\net6.0\Pagamentos.Infra.csproj.CopyComplete
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\obj\Debug\net6.0\Pagamentos.Infra.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\obj\Debug\net6.0\refint\Pagamentos.Infra.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\obj\Debug\net6.0\Pagamentos.Infra.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\obj\Debug\net6.0\Pagamentos.Infra.genruntimeconfig.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Infra\obj\Debug\net6.0\ref\Pagamentos.Infra.dll

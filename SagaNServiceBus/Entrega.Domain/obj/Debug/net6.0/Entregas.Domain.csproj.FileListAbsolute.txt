@@ -1,0 +1,11 @@
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Domain\bin\Debug\net6.0\Entregas.Domain.deps.json
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Domain\bin\Debug\net6.0\Entregas.Domain.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Domain\bin\Debug\net6.0\Entregas.Domain.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Domain\obj\Debug\net6.0\Entregas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Domain\obj\Debug\net6.0\Entregas.Domain.AssemblyInfoInputs.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Domain\obj\Debug\net6.0\Entregas.Domain.AssemblyInfo.cs
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Domain\obj\Debug\net6.0\Entregas.Domain.csproj.CoreCompileInputs.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Domain\obj\Debug\net6.0\Entregas.Domain.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Domain\obj\Debug\net6.0\refint\Entregas.Domain.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Domain\obj\Debug\net6.0\Entregas.Domain.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Entrega.Domain\obj\Debug\net6.0\ref\Entregas.Domain.dll

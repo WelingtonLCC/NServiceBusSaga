@@ -1,0 +1,11 @@
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Domain\bin\Debug\net6.0\Pagamentos.Domain.deps.json
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Domain\bin\Debug\net6.0\Pagamentos.Domain.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Domain\bin\Debug\net6.0\Pagamentos.Domain.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Domain\obj\Debug\net6.0\Pagamentos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Domain\obj\Debug\net6.0\Pagamentos.Domain.AssemblyInfoInputs.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Domain\obj\Debug\net6.0\Pagamentos.Domain.AssemblyInfo.cs
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Domain\obj\Debug\net6.0\Pagamentos.Domain.csproj.CoreCompileInputs.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Domain\obj\Debug\net6.0\Pagamentos.Domain.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Domain\obj\Debug\net6.0\refint\Pagamentos.Domain.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Domain\obj\Debug\net6.0\Pagamentos.Domain.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pagamentos.Domain\obj\Debug\net6.0\ref\Pagamentos.Domain.dll

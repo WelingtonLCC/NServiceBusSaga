@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entrega.Applications\Entregas.Applications.csproj" />
+    <ProjectReference Include="..\Entrega.Domain\Entregas.Domain.csproj" />
+    <ProjectReference Include="..\Entrega.Infra\Entregas.Infra.csproj" />
+    <ProjectReference Include="..\Entrega.Ioc\Entregas.Ioc.csproj" />
+    <ProjectReference Include="..\Pagamentos.Applications\Pagamentos.Applications.csproj" />
+    <ProjectReference Include="..\Pagamentos.Domain\Pagamentos.Domain.csproj" />
+    <ProjectReference Include="..\Pagamentos.Infra\Pagamentos.Infra.csproj" />
+    <ProjectReference Include="..\Pagamentos.Ioc\Pagamentos.Ioc.csproj" />
+    <ProjectReference Include="..\Pedidos.Applications\Pedidos.Applications.csproj" />
+    <ProjectReference Include="..\Pedidos.Domain\Pedidos.Domain.csproj" />
+    <ProjectReference Include="..\Pedidos.Infra\Pedidos.Infra.csproj" />
+    <ProjectReference Include="..\Pedidos.Ioc\Pedidos.Ioc.csproj" />
+  </ItemGroup>
+
+</Project>

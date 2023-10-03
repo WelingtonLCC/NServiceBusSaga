@@ -1,0 +1,11 @@
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Domain\bin\Debug\net6.0\Pedidos.Domain.deps.json
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Domain\bin\Debug\net6.0\Pedidos.Domain.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Domain\bin\Debug\net6.0\Pedidos.Domain.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.AssemblyInfoInputs.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.AssemblyInfo.cs
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.csproj.CoreCompileInputs.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Domain\obj\Debug\net6.0\refint\Pedidos.Domain.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Domain\obj\Debug\net6.0\ref\Pedidos.Domain.dll

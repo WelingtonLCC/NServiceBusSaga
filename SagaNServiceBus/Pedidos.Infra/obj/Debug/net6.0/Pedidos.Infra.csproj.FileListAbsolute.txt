@@ -1,0 +1,17 @@
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\bin\Debug\net6.0\Pedidos.Infra.deps.json
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\bin\Debug\net6.0\Pedidos.Infra.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\bin\Debug\net6.0\Pedidos.Infra.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\obj\Debug\net6.0\Pedidos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\obj\Debug\net6.0\Pedidos.Infra.AssemblyInfoInputs.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\obj\Debug\net6.0\Pedidos.Infra.AssemblyInfo.cs
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\obj\Debug\net6.0\Pedidos.Infra.csproj.CoreCompileInputs.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\obj\Debug\net6.0\Pedidos.Infra.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\obj\Debug\net6.0\refint\Pedidos.Infra.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\obj\Debug\net6.0\Pedidos.Infra.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\obj\Debug\net6.0\ref\Pedidos.Infra.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\bin\Debug\net6.0\Pedidos.Infra.runtimeconfig.json
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\obj\Debug\net6.0\Pedidos.Infra.csproj.AssemblyReference.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\obj\Debug\net6.0\Pedidos.Infra.genruntimeconfig.cache
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\bin\Debug\net6.0\Pedidos.Domain.dll
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\bin\Debug\net6.0\Pedidos.Domain.pdb
+D:\NetCore\SagaNServicesBusPGSQL\SagaNServiceBus\Pedidos.Infra\obj\Debug\net6.0\Pedidos.Infra.csproj.CopyComplete
