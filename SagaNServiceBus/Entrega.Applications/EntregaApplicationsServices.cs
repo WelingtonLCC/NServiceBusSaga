@@ -1,7 +1,4 @@
-﻿using Entregas.Applications.DataTransferObjects;
-using Entregas.Infra.Repository;
-
-namespace Entregas.Applications;
+﻿namespace Entregas.Applications;
 
 public class EntregaApplicationsServices : IEntregaApplicationsServices
 {

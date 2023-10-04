@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-
-namespace Pagamentos.Infra.Context;
+﻿namespace Pagamentos.Infra.Context;
 
 public class PaymentDbContext : DbContext
 {

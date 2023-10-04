@@ -1,12 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Pagamentos.Applications;
-using Pagamentos.Domain.Interfaces;
-using Pagamentos.Infra.Context;
-using Pagamentos.Infra.Repositories;
-
-namespace Pagamentos.Ioc;
+﻿namespace Pagamentos.Ioc;
 
 public static class DependencyInjectionPagamentos
 {

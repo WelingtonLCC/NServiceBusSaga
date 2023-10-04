@@ -1962,7 +1962,7 @@
     "ProcessorCount": 12,
     "Is64BitProcess": true,
     "CLRVersion": "6.0.21",
-    "WorkingSet": 106946560,
+    "WorkingSet": 220696576,
     "SystemPageSize": 4096,
     "HostName": "DESKTOP-3G630DO",
     "UserName": "Futura",

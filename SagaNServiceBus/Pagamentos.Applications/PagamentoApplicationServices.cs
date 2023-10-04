@@ -1,7 +1,4 @@
-﻿using Pagamentos.Applications.DataTransferObjects;
-using Pagamentos.Infra.Repositories;
-
-namespace Pagamentos.Applications;
+﻿namespace Pagamentos.Applications;
 
 public class PagamentoApplicationServices : IPagamentoApplicationServices
 {

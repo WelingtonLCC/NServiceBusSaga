@@ -1,6 +1,4 @@
-﻿using Pagamentos.Applications.DataTransferObjects;
-
-namespace Pagamentos.Applications;
+﻿namespace Pagamentos.Applications;
 
 public interface IPagamentoApplicationServices
 {

@@ -1,8 +1,4 @@
-﻿using Pedidos.Applications.Commands;
-using Pedidos.Applications.Events;
-using Pedidos.Applications.Messages;
-
-namespace Pedidos.Applications;
+﻿namespace Pedidos.Applications;
 
 public class PedidosSagas : Saga<PedidoSagaData>,
     IAmStartedByMessages<AdicionarPedidoCommands>,
@@ -12,7 +8,7 @@ public class PedidosSagas : Saga<PedidoSagaData>,
 {
     public Task Handle(AdicionarPedidoCommands message, IMessageHandlerContext context)
     {
-        _ = RequestTimeout<PedidoTimeOut>(context, TimeSpan.FromMilliseconds(5000));
+        //_ = RequestTimeout<PedidoTimeOut>(context, TimeSpan.FromMilliseconds(5000));
 
         return context.Publish(new PedidoRecebidoEvent(message.Id));
     }

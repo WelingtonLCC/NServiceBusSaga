@@ -1,6 +1,4 @@
-﻿using Pedidos.Applications.Commands;
-
-namespace Pedidos.Applications;
+﻿namespace Pedidos.Applications;
 
 public class PedidosApplicationServices : IPedidosApplicationServices
 {

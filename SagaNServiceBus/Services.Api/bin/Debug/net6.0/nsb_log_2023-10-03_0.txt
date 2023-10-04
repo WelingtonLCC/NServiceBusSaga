@@ -326,3 +326,4 @@ Exception details:
 2023-10-03 16:31:44.493 INFO  Could not find a started saga of 'Pedidos.Applications.PedidosSagas' for message type 'Pedidos.Applications.Commands.ReservarItensDoPedidoCommand'.
 2023-10-03 16:31:44.495 INFO  Could not find any started sagas for message type 'Pedidos.Applications.Commands.ReservarItensDoPedidoCommand'. Going to invoke SagaNotFoundHandlers.
 2023-10-03 16:31:57.152 INFO  No valid license could be found. Falling back to trial license with start date '2023-10-03'.
+2023-10-03 16:56:22.935 INFO  No valid license could be found. Falling back to trial license with start date '2023-10-03'.

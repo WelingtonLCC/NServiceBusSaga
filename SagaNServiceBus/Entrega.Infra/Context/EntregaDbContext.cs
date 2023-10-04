@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-
-namespace Entregas.Infra.Context;
+﻿namespace Entregas.Infra.Context;
 
 public class EntregaDbContext : DbContext
 {

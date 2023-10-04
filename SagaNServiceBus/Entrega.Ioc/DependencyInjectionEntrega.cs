@@ -1,12 +1,4 @@
-﻿using Entregas.Applications;
-using Entregas.Domain.Interfaces;
-using Entregas.Infra.Context;
-using Entregas.Infra.Repository;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-
-namespace Entregas.Ioc;
+﻿namespace Entregas.Ioc;
 
 public static class DependencyInjectionEntrega
 {

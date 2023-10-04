@@ -1,6 +1,4 @@
-﻿using Entregas.Applications.DataTransferObjects;
-
-namespace Entregas.Applications;
+﻿namespace Entregas.Applications;
 
 public interface IEntregaApplicationsServices
 {

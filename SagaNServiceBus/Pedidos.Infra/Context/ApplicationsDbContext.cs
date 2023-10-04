@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-
-namespace Pedidos.Infra.Context;
+﻿namespace Pedidos.Infra.Context;
 
 public class ApplicationsDbContext : DbContext
 {
